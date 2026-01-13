@@ -1,23 +1,59 @@
-# Blockchain Market Analysis (Dune Analytics)
+# Ethereum Network Activity (Dune Analytics)
 
-This repository contains on-chain analytics projects built using Dune Analytics.
+## Project Overview
+This project demonstrates on-chain analytics using **Dune Analytics** to analyze
+Ethereum network activity. The goal is to extract actionable insights from raw
+blockchain data using **SQL (DuneSQL)** and present them in a clear dashboard.
 
-## Dashboards
-- Ethereum Network Activity  
-  https://dune.com/your-username/ethereum-network-activity
+This repository serves as a public portfolio project for blockchain / on-chain
+analysis roles.
 
-## Description
-This dashboard analyzes:
-- Daily Ethereum transaction count
-- Whale activity (500+ ETH movements)
-- NFT top collections by volume (24h)
+---
 
-## Tools
-- Dune Analytics
-- DuneSQL
-- Ethereum blockchain
+## Dashboard
+- **Dune Dashboard:** https://dune.com/<username>/<dashboard-slug>
 
-## Author
-Haikal Amri
-# dune-blockchain-market-analysis
-On-chain analysis dashboards built with Dune Analytics
+---
+
+## Metrics Explained
+
+- **Daily Transaction Count**  
+  Measures the total number of Ethereum transactions per day to estimate overall
+  network usage and demand.
+
+- **Daily Active Wallets**  
+  Counts distinct sender addresses (`from`) per day to approximate user activity
+  on the Ethereum network.
+
+- **Whale Activity (500+ ETH)**  
+  Tracks large ETH transfers to identify potential institutional or whale-driven
+  movements.
+
+- **NFT Top Collections (24h Volume)**  
+  Highlights the most actively traded NFT collections based on USD volume over
+  the last 24 hours.
+
+---
+
+## Key Insights
+
+- Ethereum transaction activity shows noticeable spikes on certain days,
+  indicating periods of increased network demand.
+- Trends in active wallets help differentiate between organic user growth and
+  short-term speculative activity.
+- Large ETH transfers (whale movements) may precede heightened market volatility.
+- NFT trading volume can serve as a proxy for retail participation in the market.
+
+> Insights are exploratory and intended for analytical demonstration purposes.
+
+---
+
+## Tech Stack
+- **Dune Analytics**
+- **DuneSQL (Trino-based SQL)**
+- **Ethereum blockchain data**
+- **GitHub** for version control and documentation
+
+---
+
+## Repository Structure
