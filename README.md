@@ -47,6 +47,9 @@ analysis roles.
 - NFT trading volume can serve as a proxy for retail participation in the market.
 
 > Insights are exploratory and intended for analytical demonstration purposes.
+> - Transaction activity peaked in early January, followed by a short-term decline,
+  suggesting reduced network demand after a high-activity period.
+
 
 ---
 
