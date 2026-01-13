@@ -1,3 +1,6 @@
+![Dune Analytics](https://img.shields.io/badge/Dune-Analytics-blue)
+![Blockchain](https://img.shields.io/badge/Blockchain-Ethereum-purple)
+
 # Ethereum Network Activity (Dune Analytics)
 
 ## Project Overview
