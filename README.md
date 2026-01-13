@@ -11,8 +11,7 @@ analysis roles.
 ---
 
 ## Dashboard
-- **Dune Dashboard:** https://dune.com/<username>/<dashboard-slug>
-
+- **Dune Dashboard:** https://dune.com/haikal_amri/ethereum-network-activity
 ---
 
 ## Metrics Explained
